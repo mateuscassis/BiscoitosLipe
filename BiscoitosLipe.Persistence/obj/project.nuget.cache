@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jp1IrpKuXN9OikBt+snI0PqZc0q3eUQdzy8yf56Xuhoahgmxvfyn4tWNOqnCVCIz0VWzY/9sUsobdWhNgv6s0Q==",
+  "dgSpecHash": "vbG6vdI0O0OFqQgoy4fjz12ddWXhhpJTSI0M5pgxVEfznlLWrK7q+47S6TIla3jCU5r/IT+NgzwPLdLTxX8zjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Persistence\\BiscoitosLipe.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Persistence\\BiscoitosLipe.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\userped3\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
     "C:\\Users\\userped3\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.9\\microsoft.entityframeworkcore.abstractions.6.0.9.nupkg.sha512",

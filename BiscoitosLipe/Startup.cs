@@ -1,6 +1,9 @@
 using System.Diagnostics.CodeAnalysis;
+using BiscoitosLipe.Domain;
 using BiscoitosLipe.Persistence.Contextos;
 using BiscoitosLipe.Persistence.Contracts;
+using BiscoitosLipe.Persistence.Persistencia;
+using Cadastros.Persistence.Persistencia;
 using Microsoft.EntityFrameworkCore;
 
 using Newtonsoft.Json;
@@ -21,16 +24,22 @@ namespace BiscoitosLipe
                 c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
             });
 
-            string connection = Configuration.GetConnectionString("PostgreSQL");
+            string connection = Configuration.GetConnectionString("Default");
 
             services.AddDbContext<IDataContext, DataContext>(options =>
-                options.UseNpgsql(connection)
+                options.UseMySql(connection, ServerVersion.AutoDetect(connection))
             );
 
-            AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
-
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+            
+            services.AddScoped<IPersistenciaEstatica<Clientes>, PersistenciaEstatica<Clientes>>();
+            services.AddScoped<IPersistenciaEstatica<Pedidos>, PersistenciaEstatica<Pedidos>>();
+            services.AddScoped<IPersistenciaEstatica<Localização>, PersistenciaEstatica<Localização>>();
 
+            services.AddScoped<IPersistenciaDinamica<Clientes>, PersistenciaDinamica<Clientes>>();
+            services.AddScoped<IPersistenciaDinamica<Pedidos>, PersistenciaDinamica<Pedidos>>();
+            services.AddScoped<IPersistenciaDinamica<Localização>, PersistenciaDinamica<Localização>>();
+            
             services.AddControllers();
             services.AddSwaggerGen();
         }

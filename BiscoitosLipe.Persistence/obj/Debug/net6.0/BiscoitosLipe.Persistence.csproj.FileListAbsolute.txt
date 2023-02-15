@@ -1,0 +1,15 @@
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Persistence\bin\Debug\net6.0\BiscoitosLipe.Persistence.deps.json
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Persistence\bin\Debug\net6.0\BiscoitosLipe.Persistence.dll
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Persistence\bin\Debug\net6.0\BiscoitosLipe.Persistence.pdb
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Persistence\bin\Debug\net6.0\BiscoitosLipe.Domain.dll
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Persistence\bin\Debug\net6.0\BiscoitosLipe.Domain.pdb
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Persistence\obj\Debug\net6.0\BiscoitosLipe.Persistence.csproj.AssemblyReference.cache
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Persistence\obj\Debug\net6.0\BiscoitosLipe.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Persistence\obj\Debug\net6.0\BiscoitosLipe.Persistence.AssemblyInfoInputs.cache
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Persistence\obj\Debug\net6.0\BiscoitosLipe.Persistence.AssemblyInfo.cs
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Persistence\obj\Debug\net6.0\BiscoitosLipe.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Persistence\obj\Debug\net6.0\BiscoitosLipe.Persistence.csproj.CopyComplete
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Persistence\obj\Debug\net6.0\BiscoitosLipe.Persistence.dll
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Persistence\obj\Debug\net6.0\refint\BiscoitosLipe.Persistence.dll
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Persistence\obj\Debug\net6.0\BiscoitosLipe.Persistence.pdb
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Persistence\obj\Debug\net6.0\ref\BiscoitosLipe.Persistence.dll

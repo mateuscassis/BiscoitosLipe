@@ -7,6 +7,8 @@ namespace BiscoitosLipe.Persistence.Contracts
     {
         Task<int> SaveChangesAsync(CancellationToken cancellationToken = default(CancellationToken));
         DbSet<TEntity> Set<TEntity>() where TEntity : class;
-        DbSet<Clientes> Pessoas { get; set; }
+        DbSet<Clientes> Clientes { get; set; }
+        DbSet<Localização> Localizacao { get; set; }
+        DbSet<Pedidos> Pedidos { get; set; }
     }
 }

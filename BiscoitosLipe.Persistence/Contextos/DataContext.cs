@@ -9,6 +9,8 @@ namespace BiscoitosLipe.Persistence.Contextos
     {
         public DataContext(DbContextOptions<DataContext> options) : base(options) { }
 
-        public DbSet<Clientes> Pessoas { get; set; }
+        public DbSet<Clientes> Clientes { get; set; }
+        public DbSet<Pedidos> Pedidos { get; set; }
+        public DbSet<Localização> Localizacao { get; set; }
     }
 }

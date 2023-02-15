@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj": {}
+    "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj": {
+    "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj",
         "projectName": "BiscoitosLipe.Domain",
-        "projectPath": "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj",
+        "projectPath": "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj",
         "packagesPath": "C:\\Users\\userped3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Domain\\obj\\",
+        "outputPath": "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

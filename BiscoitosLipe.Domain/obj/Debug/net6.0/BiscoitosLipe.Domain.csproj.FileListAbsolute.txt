@@ -1,0 +1,12 @@
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Domain\bin\Debug\net6.0\BiscoitosLipe.Domain.deps.json
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Domain\bin\Debug\net6.0\BiscoitosLipe.Domain.dll
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Domain\bin\Debug\net6.0\BiscoitosLipe.Domain.pdb
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Domain\obj\Debug\net6.0\BiscoitosLipe.Domain.csproj.AssemblyReference.cache
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Domain\obj\Debug\net6.0\BiscoitosLipe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Domain\obj\Debug\net6.0\BiscoitosLipe.Domain.AssemblyInfoInputs.cache
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Domain\obj\Debug\net6.0\BiscoitosLipe.Domain.AssemblyInfo.cs
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Domain\obj\Debug\net6.0\BiscoitosLipe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Domain\obj\Debug\net6.0\BiscoitosLipe.Domain.dll
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Domain\obj\Debug\net6.0\refint\BiscoitosLipe.Domain.dll
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Domain\obj\Debug\net6.0\BiscoitosLipe.Domain.pdb
+C:\Users\userped3\Documents\GitHub\BiscoitosLipe\BiscoitosLipe.Domain\obj\Debug\net6.0\ref\BiscoitosLipe.Domain.dll

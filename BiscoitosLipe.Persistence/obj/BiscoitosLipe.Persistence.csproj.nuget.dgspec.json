@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Persistence\\BiscoitosLipe.Persistence.csproj": {}
+    "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Persistence\\BiscoitosLipe.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj": {
+    "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj",
         "projectName": "BiscoitosLipe.Domain",
-        "projectPath": "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj",
+        "projectPath": "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj",
         "packagesPath": "C:\\Users\\userped3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Domain\\obj\\",
+        "outputPath": "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Persistence\\BiscoitosLipe.Persistence.csproj": {
+    "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Persistence\\BiscoitosLipe.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Persistence\\BiscoitosLipe.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Persistence\\BiscoitosLipe.Persistence.csproj",
         "projectName": "BiscoitosLipe.Persistence",
-        "projectPath": "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Persistence\\BiscoitosLipe.Persistence.csproj",
+        "projectPath": "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Persistence\\BiscoitosLipe.Persistence.csproj",
         "packagesPath": "C:\\Users\\userped3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -93,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj": {
-                "projectPath": "C:\\Users\\userped3\\Documents\\GitHub\\servico-de-preco-backend\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj"
+              "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj": {
+                "projectPath": "C:\\Users\\userped3\\Documents\\GitHub\\BiscoitosLipe\\BiscoitosLipe.Domain\\BiscoitosLipe.Domain.csproj"
               }
             }
           }
