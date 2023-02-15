@@ -2,8 +2,9 @@
 {
     public class LocalizacaoDTO
     {
-        public LocalizacaoDTO(string cidade, string estado, string cEP, string rua, string bairro, string numero)
+        public LocalizacaoDTO(string id, string cidade, string estado, string cEP, string rua, string bairro, string numero)
         {
+            Id = id;
             Cidade = cidade;
             Estado = estado;
             CEP = cEP;
@@ -12,6 +13,7 @@
             Numero = numero;
         }
 
+        public string Id { get; set; }
         public string Cidade { get; set; }
         public string Estado { get; set; }
         public string CEP { get; set; }
